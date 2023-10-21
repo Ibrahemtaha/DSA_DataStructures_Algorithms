@@ -4,7 +4,8 @@ class Node:
         self.ref  = None
         
 #node1 = Node(1)
-#print(node1)   //
+#print(node1)   
+#//
 
 class LinkedList:
     def __init__(self):
